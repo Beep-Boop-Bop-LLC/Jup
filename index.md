@@ -4,7 +4,7 @@ Are you tired of people bombarding you with song requests while you’re on aux?
 
 Are you tired of the person on aux not appreciating your top notch song	recommendations?
 
-Jup is an iOS App made to facilitate group participation within a music queue, allowing individuals to choose songs that will be directly added to the host’s active queue. 
+Jup is an iOS app made to facilitate group participation within a music queue, allowing individuals to choose songs that will be directly added to the host’s active queue. 
 
 The ‘host’ is able to choose to have their queue playing either on Apple Music or Spotify. The app will then function to use the music player of the selected service. Either service requires the host to have an active subscription with either service. The host can open up the queue via Bluetooth for nearby ‘participants’ to join.
 
