@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Jup
 
-You can use the [editor on GitHub](https://github.com/Beep-Boop-Bop-LLC/Jup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Are you tired of people bombarding you with song requests while you’re on aux? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Are you tired of the person on aux not appreciating your top notch song	recommendations?
 
-### Markdown
+Jup is an iOS App made to facilitate group participation within a music queue, allowing individuals to choose songs that will be directly added to the host’s active queue. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The ‘host’ is able to choose to have their queue playing either on Apple Music or Spotify. The app will then function to use the music player of the selected service. Either service requires the host to have an active subscription with either service. The host can open up the queue via Bluetooth for nearby ‘participants’ to join.
 
-```markdown
-Syntax highlighted code block
+Participants, upon joining a queue, may add songs by searching either the Apple Music or Spotify music catalog regardless of having a subscription or account. Participants, upon signing in to a given music service, will also be able to access their personal playlists with that service to add songs from.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Beep-Boop-Bop-LLC/Jup/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Participants get a say in what songs are played next, via the ‘voting’ feature. Songs with the most votes get pushed to the top of the queue. The host can intervene by placing the queue in ‘host control’, where voting is disabled and the host can rearrange the queue if needed. 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Jup? Send an email to either of us:
+```
+•	Zach Venanzi – venanziz@gmail.com
+•	Nick Venanzi – nickvenanzi@gmail.com
+```
+Note: This app is entirely unaffiliated from Apple Music and Spotify
+
+### Privacy Policy
+
+No user data is collected in Jup.
+
